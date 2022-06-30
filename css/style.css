@@ -21,6 +21,7 @@ body{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#f8b500',GradientType=0 ); /* IE6-9 */
     background: linear-gradient(270deg,#fff,#d995c2); /* W3C */
     font-size: 25px;
+    font-family: 'Arima', cursive;
 
 }
 .menu{
