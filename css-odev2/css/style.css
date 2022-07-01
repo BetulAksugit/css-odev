@@ -1,0 +1,53 @@
+.genel{
+width: 100%;
+}
+.header{
+  margin-top: 150px;  
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.search{
+    background-color:rgba(226, 224, 220, 0.978);
+    text-align: center;
+    margin: 10px 69px 5px 60px;
+
+}
+.textarea{
+    width: 350px;
+}
+
+.links{
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px 60px 5px 60px;
+}
+.one{
+    width: 36%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color:#7EE5DA ;
+    height: 200px;
+    margin-right: 5px;
+}
+
+.two{
+    width: 26%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #70CCC2;
+    height: 200px;
+    margin-right: 5px
+}
+
+.three{
+    width: 37%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #62B3AA;
+    height: 200px;
+
+}
